@@ -10,6 +10,10 @@ void main() {
   print('Spell Power: $spellPower');
   print('Has Staff: $hasMagicStaff');
 
-  magicLevel += 5;
+  magicLevel += 6785;
   print('New Magic Level: $magicLevel');
+
+  spellPower -= 356;
+
+  print('Spell Power: $spellPower');
 }
