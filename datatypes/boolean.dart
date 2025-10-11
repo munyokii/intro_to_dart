@@ -4,7 +4,7 @@ void main() {
   bool lovesDebugging = false;
 
   // 🧠 Logical spells
-  if(isCodingFun) {
+  if (isCodingFun) {
     print("🎉 Coding is fun!");
   } else {
     print("💡 Try a new language or project for more fun!");
