@@ -21,3 +21,13 @@ It’s useful when you need to show timestamps (like messages, deadlines, or eve
 
 Dart’s DateTime class gives access to the current time, lets you add or subtract durations, and compare times.
 The Duration class helps specify time intervals like hours, minutes, or days.
+
+### Utility in Action
+
+Used for:
+
+- Showing when a message was sent
+
+- Scheduling events or reminders
+
+- Calculating how long something took

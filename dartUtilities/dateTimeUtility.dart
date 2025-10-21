@@ -11,3 +11,13 @@ void main() {
   DateTime earlier = today.subtract(Duration(hours: 2));
   print('Two hours ago: $earlier'); 
 }
+
+// Utility in Action
+
+// Used for:
+
+// Showing when a message was sent
+
+// Scheduling events or reminders
+
+// Calculating how long something took
